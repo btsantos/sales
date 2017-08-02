@@ -2,7 +2,7 @@
    <section sortOrder="0" name="reqGeneralInfo" label="General Information">
     <item sortOrder="0" name="reqInternalName" label="InternalName">GO</item>
     <item sortOrder="1" name="reqDisplayName" label="Display Name">GoContact</item>
-    <item sortOrder="2" name="reqAdapterUrl" label="CTI Adapter URL">https://drive.google.com/file/d/0B7YCJaEWV2Y2Ums5ZFlkOUV0ak0/view?usp=sharing</item>
+    <item sortOrder="2" name="reqAdapterUrl" label="CTI Adapter URL">https://raw.githubusercontent.com/btsantos/sales/master/apex.html</item>
     <item sortOrder="3" name="reqUseApi" label="Use CTI API">true</item>
     <item sortOrder="4" name="reqSoftphoneHeight" label="Softphone Height">440</item>
     <item sortOrder="5" name="reqSoftphoneWidth" label="Softphone Width">202</item>
